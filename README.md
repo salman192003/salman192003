@@ -11,7 +11,7 @@
 
 I’m a final-year Computer Science student at LUMS with a strong focus on <b>computer vision and deep learning</b>, alongside hands-on experience in <b>full stack engineering</b>.
 
-- 🎓 <b>Education:</b> B.Sc. Computer Science, LUMS (Final Year)  
+- 🎓 <b>Education:</b> B.Sc. Computer Science, LUMS 
 - 🔬 <b>Research:</b> Computer Vision, Deep Learning (targeting top-tier conferences like ECCV)  
 - 💻 <b>Engineering:</b> Full stack development with cloud-native architectures  
 - 🌐 <b>Portfolio:</b> https://salmanajmal.vercel.app  
